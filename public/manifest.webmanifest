@@ -1,0 +1,16 @@
+{
+  "name": "Prodetech",
+  "short_name": "Prodetech",
+  "description": "Máquinas láser de diodo, CO₂ y fibra en Ecuador.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05080D",
+  "theme_color": "#FF6B2C",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
